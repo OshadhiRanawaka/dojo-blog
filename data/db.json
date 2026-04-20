@@ -13,28 +13,10 @@
       "id": "2"
     },
     {
-      "title": "njkj",
-      "body": "hjdewknf",
-      "author": "yoshi",
-      "id": "ZBaiRZfNEHg"
-    },
-    {
       "title": "hello",
       "body": "nsbjcksjb",
       "author": "mario",
       "id": "B_Z4WuP3oFo"
-    },
-    {
-      "title": "hi",
-      "body": "hudjsfiwe",
-      "author": "yoshi",
-      "id": "4vflgiCDa9s"
-    },
-    {
-      "title": "Hbdiso",
-      "body": "bbdwe",
-      "author": "yoshi",
-      "id": "Ksxv0HmCxiM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
